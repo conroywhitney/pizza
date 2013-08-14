@@ -1,0 +1,7 @@
+title: Philosophy of Pizza
+author: Conroy
+date: 1900/12/01
+
+Pizza is not just a food: it's a way of life!
+
+More!
