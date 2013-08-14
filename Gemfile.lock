@@ -1,0 +1,48 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    builder (3.1.4)
+    daemons (1.1.9)
+    eventmachine (1.0.0)
+    fluent-logger (0.4.4)
+      msgpack (= 0.4.7)
+      yajl-ruby (~> 1.0)
+    hirb (0.7.1)
+    json (1.7.7)
+    msgpack (0.4.7)
+    parallel (0.5.21)
+    rack (1.5.2)
+    rdiscount (2.0.7)
+    td (0.10.71)
+      hirb (>= 0.4.5)
+      msgpack (~> 0.4.4)
+      parallel (~> 0.5.19)
+      td-client (~> 0.8.45)
+      td-logger (~> 0.3.16)
+      yajl-ruby (~> 1.1.0)
+    td-client (0.8.45)
+      json (~> 1.7.6)
+      msgpack (~> 0.4.4)
+    td-logger (0.3.18)
+      fluent-logger (~> 0.4.1)
+      msgpack (= 0.4.7)
+      td-client (~> 0.8.4)
+    thin (1.5.0)
+      daemons (>= 1.0.9)
+      eventmachine (>= 0.12.6)
+      rack (>= 1.0.0)
+    toto (0.4.9)
+      builder
+      rack
+      rdiscount
+    yajl-ruby (1.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  td
+  td-client
+  td-logger
+  thin
+  toto
