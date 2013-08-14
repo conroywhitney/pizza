@@ -1,9 +1,10 @@
+<img class="centered" src="/images/pizza-cupcaeks.png" style="width:700px;">
+
 <section id="articles">
-  <% for article in articles[0...3] %>
+  <% for article in articles[0...50] %>
     <article class="post">
       <header>
         <h1><a href="<%= article.path %>"><%= article.title %></a></h1>
-        <span class="date"><%= article.date %></span>
       </header>
 
       <section class="content">
@@ -14,7 +15,4 @@
   <% end %>
 </section>
 
-<section id="archives">
-  <%= archives[3..-1] %>
-</section>
 

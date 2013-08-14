@@ -2,8 +2,73 @@ title: Basic Technique
 author: Conroy
 date: 1900/10/01
 
-Documenting the process of making the classic cheese version
+Documenting the process of making the classic cheese version...
 
-More things!
+###Acknowledgments
+First off, I wanna give props to the Pennywise cook
+(http://pennywisecook.com/stuffed-pizza-cupcakes/) for leading me to the
+idea of this form. I am still working with getting it just right, but so
+far, this is the best form I've tried. So thanks!
+
+###The Sauce
+No picture for this one, sorry. But the basic sauce I used was the one
+by Alton Brown
+(http://www.foodnetwork.com/recipes/alton-brown/tomato-sauce-recipe/index.html).
+It takes maybe 30 minutes of prepping the ingredients (tomatoes, onions,
+and garlic), and then 2 hours of cooking, and another 10 minutes of
+blending, but man, it's tasty! Just make sure to find the right
+saltyness balance.
 
 
+###Your Workstation
+<img src="/images/workstation.jpg" alt="workstation">
+Baking is a zen thing. Get your workstation clean and ready for what's
+coming. I swear, it makes a difference in the final taste! Haha.
+
+
+###Make Your Dough
+<img src="/images/dough-rising.jpg" alt="dough-rising">
+Other instructions for how to make dough from scratch can be found on
+the internet... Or, I guess, if you have the ability, you can buy dough
+from your local bakery... But making the dough is one of my favourite
+parts! It makes you a lot more intimate with your final product...
+
+
+###Ingredients
+<img src="/images/ingredients.jpg" alt="ingredients">
+Prep your toppings and garnishes while you wait for the dough to finish
+rising.
+
+
+###Top it Off!
+<img src="/images/topped.jpg" alt="topped">
+Put your sauce and toppings on your dough, just like a normal pizza.
+
+
+###Roll it Up!
+<img src="/images/rolled.jpg" alt="rolled">
+Take care with rolling. It's like sushi: you want something nice and
+firm and consistent, not something loose and sloppy.
+
+
+###Slice
+<img src="/images/sliced.jpg" alt="sliced">
+Your slices should be as wide as your cupcake mold is tall...
+
+
+
+###Place in the Cupcake Mold
+Sorry, don't have a picture of this... but take one of the slices, and
+turn it sideways, like when a tire falls down...
+
+
+###Bake
+<img src="/images/baking.jpg" alt="baking">
+Baking time and temperature is still a workin in progress... I was using
+250 deg C, and waiting until the crust started to brown...
+
+
+###Enjoy
+After they are finished baking, let them cool for 5 minutes before
+digging in. It's hard to wait that long, I know, but it makes a
+difference...
